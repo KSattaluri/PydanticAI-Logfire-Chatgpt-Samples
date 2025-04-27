@@ -1,6 +1,6 @@
 # PydanticAI Reference Project
 
-This repository serves as a comprehensive reference for using [PydanticAI](https://github.com/pydantic/pydantic-ai), a powerful framework for integrating Pydantic with Large Language Models (LLMs). The examples demonstrate how to create structured data models, build AI agents, and orchestrate complex multi-agent systems.
+This repository serves as a reference for using [PydanticAI](https://github.com/pydantic/pydantic-ai), a framework for integrating Pydantic with Large Language Models (LLMs). The examples demonstrate how to create structured data models, build AI agents, and orchestrate complex multi-agent systems.
 
 ## Prerequisites
 
